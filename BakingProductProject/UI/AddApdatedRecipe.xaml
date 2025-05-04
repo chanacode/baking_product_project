@@ -1,0 +1,53 @@
+﻿<Page x:Class="BakingProductProject.UI.AddApdatedRecipe"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:BakingProductProject.UI"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="AddApdatedRecipe">
+    <Page.Resources>
+        <ResourceDictionary Source="MyStyle.xaml"/>
+    </Page.Resources>
+    <Grid>
+        <StackPanel>
+            <TextBlock Text="שם מתכון"/>
+            <TextBox>
+                <Binding Path="recipeName">
+                    <Binding.ValidationRules>
+                    <local:HebrewValide/>
+                    </Binding.ValidationRules>
+                </Binding>
+            </TextBox>
+            <TextBlock Text="רמת קושי"/>
+            <ComboBox>
+                <ComboBoxItem Content="קל"/>
+                <ComboBoxItem Content="בנוני"/>
+                <ComboBoxItem Content="קשה"/>
+            </ComboBox>
+            <TextBlock Text="זמן הכנה"/>
+            <TextBox Text="{Binding preparationTime}"/>
+            <TextBlock Text="מספר מנות"/>
+            <TextBox>
+                <Binding Path="numbersOfServings">
+                <Binding.ValidationRules>
+                    <local:NumValide/>
+                </Binding.ValidationRules>
+                </Binding>
+            </TextBox>
+
+
+            <TextBlock Text="פרווה/חלבי"/>
+            <ComboBox >
+                <ComboBoxItem Content=" פרווה" />
+                <ComboBoxItem Content=" חלבי" />
+            </ComboBox>
+            <CheckBox Content="האם כל המוצרים בחנות?"
+                      IsChecked="True"/>
+            <CheckBox Content="לא כל המוצרים בחנות"
+                      IsChecked="False"/>
+            <!--להכניס קוד בשביל התמונה-->
+        </StackPanel>
+    </Grid>
+</Page>

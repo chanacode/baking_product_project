@@ -1,0 +1,24 @@
+﻿<Page x:Class="BakingProductProject.UI.ShowListProduct"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:BakingProductProject.UI"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="ShowListProduct">
+
+    <Grid FlowDirection="RightToLeft">
+        <ListView x:Name="lvProduct" SelectionChanged="lvProduct_SelectionChanged">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="שם מוצר" DisplayMemberBinding="{Binding productName}"/>
+                   
+                    <GridViewColumn Header="האם המוצר קיים?" DisplayMemberBinding="{Binding available}"/>
+                   
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button Content="בחר גודל מוצר" Click="Button_Click" Height="36"  Width="127"/>
+    </Grid>
+</Page>

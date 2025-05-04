@@ -1,0 +1,77 @@
+﻿<Page x:Class="BakingProductProject.UI.AddUpdatePayment"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:BakingProductProject.UI"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="AddUpdatePayment">
+    <Page.Resources>
+        <ResourceDictionary Source="MyStyle.xaml"/>
+    </Page.Resources>
+    <Grid>
+        <StackPanel>
+            <TextBlock Text="קוד תשלום"/>
+            <TextBox>
+                <Binding Path="paymentCode">
+                    <Binding.ValidationRules>
+                        <local:NumValide/>
+                    </Binding.ValidationRules>
+                </Binding>
+            </TextBox>
+            <TextBlock Text="תאריך תשלום"/>
+            <DatePicker x:Name="paymentDate" SelectedDate="{Binding paymentDate}"/>
+           <!--לבדק האם צריך בדיקת תקינות לתאריך-->
+            
+                <TextBlock Text="סכום"/>
+                <TextBox>
+                    <Binding Path="sum">
+                        <Binding.ValidationRules>
+                            <local:NumValide/>
+                        </Binding.ValidationRules>
+                    </Binding>
+                </TextBox>
+                
+                    <TextBlock Text="מספר כרטיס"/>
+                    <TextBox>
+                <Binding Path="cardNumber">
+                            <Binding.ValidationRules>
+                                <local:NumValide/>
+                            </Binding.ValidationRules>
+                        </Binding>
+                    </TextBox>
+
+            <TextBlock Text="תוקף"/>
+            <TextBox>
+                <Binding Path="validNumber">
+                    <Binding.ValidationRules>
+                        <local:NumValide/>
+                    </Binding.ValidationRules>
+                </Binding>
+            </TextBox>
+            <TextBlock Text=" ספרות 3"/>
+            <TextBox>
+                <Binding Path="cvv">
+                    <Binding.ValidationRules>
+                        <local:NumValide/>
+                    </Binding.ValidationRules>
+                </Binding>
+            </TextBox>
+            <TextBlock Text="קוד קניה "/>
+            <TextBox>
+                <Binding Path="codeShopping">
+                    <Binding.ValidationRules>
+                        <local:NumValide/>
+                    </Binding.ValidationRules>
+                </Binding>
+            </TextBox>
+            <TextBlock x:Name="txtErorr" Foreground="Red"/>
+            <TextBlock x:Name="txtOkP" Foreground="Green"/>
+
+            <Button Content="שמור" Click="Button_Click"/>
+
+
+        </StackPanel>
+    </Grid>
+</Page>

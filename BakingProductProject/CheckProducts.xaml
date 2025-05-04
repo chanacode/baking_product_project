@@ -1,0 +1,24 @@
+﻿<UserControl x:Class="BakingProductProject.CheckProducts"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:BakingProductProject"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800"
+             MouseEnter="UserControl_MouseEnter"
+             MouseLeave="UserControl_MouseLeave">
+    <Grid>
+        <StackPanel Orientation="Horizontal">
+            <CheckBox x:Name="check1" Content="{Binding productName}" Checked="CheckBox_Checked" Unchecked="CheckBox_Unchecked"/>
+            <CheckBox x:Name="check2" Content="{Binding amount }" Checked="CheckBox_Checked" Unchecked="CheckBox_Unchecked"/>
+            <CheckBox x:Name="check3" Content="{Binding unitTypeCode}" Checked="CheckBox_Checked" Unchecked="CheckBox_Unchecked"/>
+ 
+        </StackPanel>
+        <StackPanel Visibility="Collapsed" x:Name="stcChoosen">
+            <!--כאן את מציגה את כל הכמויות שקיימות מהמוצר הזה
+            באירחע שעכבר עומד על היוזר הזה אז רואים את הסטק הזה-->
+        </StackPanel>
+        
+    </Grid>
+</UserControl>

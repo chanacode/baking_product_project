@@ -1,0 +1,30 @@
+﻿<Page x:Class="BakingProductProject.UI.ShowListPayment"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:BakingProductProject.UI"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="ShowListPayment">
+    <Page.Resources>
+        <ResourceDictionary Source="MyStyle.xaml"/>
+    </Page.Resources>
+
+    <Grid FlowDirection="RightToLeft">
+        <ListView x:Name="lvPayment" SelectionChanged="lvPayment_SelectionChanged">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="קוד תשלום" DisplayMemberBinding="{Binding paymentCode}"/>
+                    <GridViewColumn Header="תאריך תשלום " DisplayMemberBinding="{Binding paymentDate}"/>
+
+                    <GridViewColumn Header="סכום" DisplayMemberBinding="{Binding sum}"/>
+                    <GridViewColumn Header="מספר כרטיס" DisplayMemberBinding="{Binding cardNumber}"/>
+                    <GridViewColumn Header="תוקף" DisplayMemberBinding="{Binding validNumber}"/>
+                    <GridViewColumn Header="  3 ספרות" DisplayMemberBinding="{Binding cvv}"/>
+                    <GridViewColumn Header="קוד קניה" DisplayMemberBinding="{Binding codeShopping}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Page>

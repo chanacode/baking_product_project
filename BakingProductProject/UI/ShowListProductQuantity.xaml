@@ -1,0 +1,32 @@
+﻿<Page x:Class="BakingProductProject.UI.ShowListProductQuantity"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:BakingProductProject.UI"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="ShowListProductQuantity">
+    <Page.Resources>
+        <ResourceDictionary Source="MyStyle.xaml"/>
+    </Page.Resources>
+
+    <Grid FlowDirection="RightToLeft">
+        <ListView x:Name="lvProductQuantity" SelectionChanged="lvProductQuantity_SelectionChanged">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="קוד מוצר" DisplayMemberBinding="{Binding productCode}"/>
+                    <GridViewColumn Header="קוד סידורי " DisplayMemberBinding="{Binding serialCode}"/>
+
+                    <GridViewColumn Header="כמות במלאי" DisplayMemberBinding="{Binding quantityInStock}"/>
+
+                    <GridViewColumn Header="מחיר ליחידה" DisplayMemberBinding="{Binding priceForUnit}"/>
+
+                    <GridViewColumn Header="קוד סוג יחידה" DisplayMemberBinding="{Binding unitTypeCode}"/>
+                    <GridViewColumn Header="כמות" DisplayMemberBinding="{Binding amount}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button Content="הוסף לסל מוצרים נבחרים" Click="Button_Click"  Height="36"  Width="162"/>
+    </Grid>
+</Page>

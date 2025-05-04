@@ -1,0 +1,31 @@
+﻿<Page x:Class="BakingProductProject.UI.ShowListRecipe"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:BakingProductProject.UI"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="ShowListRecipe">
+    <Page.Resources>
+        <ResourceDictionary Source="MyStyle.xaml"/>
+    </Page.Resources>
+    <Grid FlowDirection="RightToLeft">
+        <ListView x:Name="lvRecipe" SelectionChanged="lvRecipe_SelectionChanged">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="קוד מתכון" DisplayMemberBinding="{Binding productCode}"/>
+                    <GridViewColumn Header="שם מתכון" DisplayMemberBinding="{Binding productName}"/>
+                    <GridViewColumn Header="רמת קושי " DisplayMemberBinding="{Binding available}"/>
+                    <GridViewColumn Header="זמן הכנה " DisplayMemberBinding="{Binding productCode}"/>
+                    <GridViewColumn Header=" מספר מנות" DisplayMemberBinding="{Binding productName}"/>
+                    <GridViewColumn Header="פרווה/חלבי  ?" DisplayMemberBinding="{Binding available}"/>
+                    <GridViewColumn Header="האם כל המוצרים בחנות? " DisplayMemberBinding="{Binding productName}"/>
+                    <GridViewColumn Header="  לייק" DisplayMemberBinding="{Binding available}"/>
+                    <GridViewColumn Header="  תמונת עוגה" DisplayMemberBinding="{Binding available}"/><!--//לשאול אם צריך את הקוד וכן אם צריך את הלייק והתמונה-->
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        <Button Content="להזמנת המוצרים" Click="Button_Click" Height="36"  Width="127"/>
+    </Grid>
+</Page>

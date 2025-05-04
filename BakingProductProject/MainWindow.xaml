@@ -1,0 +1,43 @@
+﻿<Page x:Class="BakingProductProject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BakingProductProject"
+        mc:Ignorable="d"
+        Title="MainWindow" >
+    <StackPanel FlowDirection="RightToLeft" >
+        <StackPanel.Background>
+            <ImageBrush ImageSource="\MyPictures\picture.png"/>
+        </StackPanel.Background>
+        
+        <Menu>
+            <MenuItem Header="מתכונים">
+                <MenuItem Header="הוספה" Click="MenuItem_Click"/>
+                <MenuItem Header="הצג הכל" Click="MenuItem_Click_4"/>
+            </MenuItem>
+        </Menu>
+        <Menu>
+            <MenuItem Header="מוצרים" >
+                <MenuItem Header="הוספה" Click="MenuItem_Click_1"/>
+                <MenuItem Header="הצג הכל" Click="MenuItem_Click_2"/>
+            </MenuItem>
+        </Menu>
+        <Menu>
+            <MenuItem Header="לקוחות" >
+                <MenuItem Header="הוספה" Click="MenuItem_Click_7"/>
+                <MenuItem Header="הצג הכל" Click="MenuItem_Click_3"/>
+            </MenuItem>
+        </Menu>
+        <Menu>
+            <MenuItem Header="הזמנות" >//לבדק אם צריך גם הזמנות
+                <MenuItem Header="הוספה" Click="MenuItem_Click_6"/>
+                <MenuItem Header="הצג הכל" Click="MenuItem_Click_5"/>
+            </MenuItem>
+        </Menu>
+        <Frame Name="myFram" Background="LightYellow"/>
+        
+    </StackPanel>
+    
+    
+</Page>

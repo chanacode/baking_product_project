@@ -1,0 +1,431 @@
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש\BakingProductProject\BakingProductProject\bin\Debug\BakingProductProject.exe.config
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש\BakingProductProject\BakingProductProject\bin\Debug\BakingProductProject.exe
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש\BakingProductProject\BakingProductProject\bin\Debug\BakingProductProject.pdb
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\MainWindow.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\App.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject_MarkupCompile.cache
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject_MarkupCompile.lref
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\MainWindow.baml
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.g.resources
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.Properties.Resources.resources
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.csproj.GenerateResource.cache
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.csproj.CoreCompileInputs.cache
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.exe
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.pdb
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\AddApdateProduct.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\AddApdateProduct.baml
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\MyStyle.baml
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateRecipe1.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateRecipe1.baml
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.csproj.AssemblyReference.cache
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.csproj.SuggestedBindingRedirects.cache
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListProduct.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListProduct.baml
+G:\מחשבים\כיתה יב\המורה שרה מליח\מורה\bakingProductProject\BakingProductProject\bin\Debug\BakingProductProject.exe.config
+G:\מחשבים\כיתה יב\המורה שרה מליח\מורה\bakingProductProject\BakingProductProject\bin\Debug\BakingProductProject.exe
+G:\מחשבים\כיתה יב\המורה שרה מליח\מורה\bakingProductProject\BakingProductProject\bin\Debug\BakingProductProject.pdb
+G:\מחשבים\כיתה יב\המורה שרה מליח\מורה\bakingProductProject\BakingProductProject\obj\Debug\UI\MyStyle.baml
+G:\מחשבים\כיתה יב\המורה שרה מליח\מורה\bakingProductProject\BakingProductProject\obj\Debug\MainWindow.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\מורה\bakingProductProject\BakingProductProject\obj\Debug\UI\AddApdateProduct.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\מורה\bakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateRecipe1.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\מורה\bakingProductProject\BakingProductProject\obj\Debug\UI\ShowListProduct.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\מורה\bakingProductProject\BakingProductProject\obj\Debug\App.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\מורה\bakingProductProject\BakingProductProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\מורה\bakingProductProject\BakingProductProject\obj\Debug\BakingProductProject_MarkupCompile.cache
+G:\מחשבים\כיתה יב\המורה שרה מליח\מורה\bakingProductProject\BakingProductProject\obj\Debug\BakingProductProject_MarkupCompile.lref
+G:\מחשבים\כיתה יב\המורה שרה מליח\מורה\bakingProductProject\BakingProductProject\obj\Debug\MainWindow.baml
+G:\מחשבים\כיתה יב\המורה שרה מליח\מורה\bakingProductProject\BakingProductProject\obj\Debug\UI\AddApdateProduct.baml
+G:\מחשבים\כיתה יב\המורה שרה מליח\מורה\bakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateRecipe1.baml
+G:\מחשבים\כיתה יב\המורה שרה מליח\מורה\bakingProductProject\BakingProductProject\obj\Debug\UI\ShowListProduct.baml
+G:\מחשבים\כיתה יב\המורה שרה מליח\מורה\bakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.g.resources
+G:\מחשבים\כיתה יב\המורה שרה מליח\מורה\bakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.Properties.Resources.resources
+G:\מחשבים\כיתה יב\המורה שרה מליח\מורה\bakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.csproj.GenerateResource.cache
+G:\מחשבים\כיתה יב\המורה שרה מליח\מורה\bakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.csproj.CoreCompileInputs.cache
+G:\מחשבים\כיתה יב\המורה שרה מליח\מורה\bakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.exe
+G:\מחשבים\כיתה יב\המורה שרה מליח\מורה\bakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.pdb
+G:\מחשבים\כיתה יב\המורה שרה מליח\מורה\bakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.csproj.AssemblyReference.cache
+G:\מחשבים\כיתה יב\המורה שרה מליח\מורה\bakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.csproj.SuggestedBindingRedirects.cache
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\Customer.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\Customer.baml
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListRecipe.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListRecipe.baml
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש\BakingProductProject\BakingProductProject\bin\Debug\Data\bakingProduct.accdb
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject_Content.g.cs
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.csproj.AssemblyReference.cache
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.csproj.SuggestedBindingRedirects.cache
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\MyStyle.baml
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\MainWindow.g.cs
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\AddApdateProduct.g.cs
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateRecipe1.g.cs
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\Customer.g.cs
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListProduct.g.cs
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListRecipe.g.cs
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\App.g.cs
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject_Content.g.cs
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject_MarkupCompile.cache
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject_MarkupCompile.lref
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.exe
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.pdb
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.csproj.AssemblyReference.cache
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.csproj.SuggestedBindingRedirects.cache
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\MyStyle.baml
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\MainWindow.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\AddApdateProduct.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateRecipe1.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\Customer.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListProduct.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListRecipe.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\App.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject_Content.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject_MarkupCompile.cache
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject_MarkupCompile.lref
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.exe
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.pdb
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListComments.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListCustomers.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListKindsOfIndividuals.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListPayment.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListProductForRecipe.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListProductQuantity.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListShopping.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListComments.baml
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListCustomers.baml
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListKindsOfIndividuals.baml
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListPayment.baml
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListProductForRecipe.baml
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListProductQuantity.baml
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListShopping.baml
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\bin\Debug\Data\bakingProduct.accdb
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\bin\Debug\BakingProductProject.exe.config
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\bin\Debug\BakingProductProject.exe
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\bin\Debug\BakingProductProject.pdb
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListComments.g.cs
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListCustomers.g.cs
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListKindsOfIndividuals.g.cs
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListPayment.g.cs
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListProductForRecipe.g.cs
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListProductQuantity.g.cs
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListShopping.g.cs
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\MainWindow.baml
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\AddApdateProduct.baml
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateRecipe1.baml
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\Customer.baml
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListComments.baml
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListCustomers.baml
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListKindsOfIndividuals.baml
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListPayment.baml
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListProduct.baml
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListProductForRecipe.baml
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListProductQuantity.baml
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListRecipe.baml
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListShopping.baml
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.g.resources
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.Properties.Resources.resources
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.csproj.GenerateResource.cache
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.csproj.CoreCompileInputs.cache
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateCustomers.g.cs
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateKindOfIndividuals.g.cs
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateProduct.g.cs
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateRecipe.g.cs
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListShoppingDetails.g.cs
+H:\פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateShopping.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\2פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.csproj.AssemblyReference.cache
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\2פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.csproj.SuggestedBindingRedirects.cache
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\2פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\MyStyle.baml
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\2פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\MainWindow.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\2פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateCustomers.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\2פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateKindOfIndividuals.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\2פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateProduct.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\2פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateRecipe.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\2פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateShopping.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\2פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListComments.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\2פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListCustomers.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\2פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListKindsOfIndividuals.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\2פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListPayment.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\2פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListProduct.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\2פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListProductForRecipe.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\2פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListProductQuantity.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\2פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListShopping.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\2פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListShoppingDetails.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\2פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\App.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\2פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject_Content.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\2פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\2פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject_MarkupCompile.cache
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\2פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject_MarkupCompile.lref
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\2פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.exe
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\2פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.pdb
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\2פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\CustomrtEnter.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\2פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\MainPage.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\2פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\MainWindow2.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\2פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\WorkerEnter.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\2פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\Login.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\2פרויקט חדש\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdatePayment.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.csproj.AssemblyReference.cache
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.csproj.SuggestedBindingRedirects.cache
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\UI\MyStyle.baml
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\CustomrtEnter.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\Login.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\MainPage.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\MainWindow.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\MainWindow2.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateCustomers.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateKindOfIndividuals.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdatePayment.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateProduct.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateRecipe.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateShopping.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListComments.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListCustomers.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListKindsOfIndividuals.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListPayment.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListProduct.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListProductForRecipe.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListProductQuantity.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListShopping.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListShoppingDetails.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\WorkerEnter.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\App.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject_Content.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject_MarkupCompile.cache
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject_MarkupCompile.lref
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.exe
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.pdb
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.csproj.AssemblyReference.cache
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.csproj.SuggestedBindingRedirects.cache
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\UI\MyStyle.baml
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\CustomrtEnter.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\Login.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\MainPage.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\MainWindow.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\MainWindow2.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateCustomers.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateKindOfIndividuals.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdatePayment.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateProduct.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateRecipe.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateShopping.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListComments.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListCustomers.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListKindsOfIndividuals.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListPayment.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListProduct.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListProductForRecipe.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListProductQuantity.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListShopping.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListShoppingDetails.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\WorkerEnter.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\App.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject_Content.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject_MarkupCompile.cache
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject_MarkupCompile.lref
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.exe
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.pdb
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\פרויקט חדש1\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListRecipe.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.csproj.AssemblyReference.cache
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.csproj.SuggestedBindingRedirects.cache
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\MyStyle.baml
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\CustomrtEnter.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\Login.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\MainPage.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\MainWindow.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\MainWindow2.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateCustomers.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateKindOfIndividuals.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdatePayment.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateProduct.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateRecipe.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateShopping.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListComments.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListCustomers.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListKindsOfIndividuals.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListPayment.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListProduct.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListProductForRecipe.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListProductQuantity.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListRecipe.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListShopping.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListShoppingDetails.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\WorkerEnter.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\App.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject_Content.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject_MarkupCompile.cache
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject_MarkupCompile.lref
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.exe
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.pdb
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\bin\Debug\Data\bakingProduct.accdb
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\bin\Debug\BakingProductProject.exe.config
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\bin\Debug\BakingProductProject.exe
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\bin\Debug\BakingProductProject.pdb
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\CustomrtEnter.baml
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\Login.baml
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\MainPage.baml
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\MainWindow.baml
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\MainWindow2.baml
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateCustomers.baml
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateKindOfIndividuals.baml
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdatePayment.baml
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateProduct.baml
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateRecipe.baml
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateShopping.baml
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListComments.baml
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListCustomers.baml
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListKindsOfIndividuals.baml
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListPayment.baml
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListProduct.baml
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListProductForRecipe.baml
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListProductQuantity.baml
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListRecipe.baml
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListShopping.baml
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListShoppingDetails.baml
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\WorkerEnter.baml
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.g.resources
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.Properties.Resources.resources
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.csproj.GenerateResource.cache
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.csproj.CoreCompileInputs.cache
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\bin\Debug\Data\bakingProduct.accdb
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\bin\Debug\BakingProductProject.exe.config
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\bin\Debug\BakingProductProject.exe
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\bin\Debug\BakingProductProject.pdb
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.csproj.AssemblyReference.cache
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.csproj.SuggestedBindingRedirects.cache
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\MyStyle.baml
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\CustomrtEnter.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\Login.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\MainPage.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\MainWindow.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\MainWindow2.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateCustomers.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateKindOfIndividuals.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdatePayment.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateProduct.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateRecipe.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateShopping.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\Catalog.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListComments.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListCustomers.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListKindsOfIndividuals.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListPayment.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListProduct.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListProductForRecipe.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListProductQuantity.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListRecipe.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListShopping.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListShoppingDetails.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\WorkerEnter.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\App.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject_Content.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject_MarkupCompile.cache
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject_MarkupCompile.lref
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\CustomrtEnter.baml
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\Login.baml
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\MainPage.baml
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\MainWindow.baml
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\MainWindow2.baml
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateCustomers.baml
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateKindOfIndividuals.baml
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdatePayment.baml
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateProduct.baml
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateRecipe.baml
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateShopping.baml
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\Catalog.baml
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListComments.baml
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListCustomers.baml
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListKindsOfIndividuals.baml
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListPayment.baml
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListProduct.baml
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListProductForRecipe.baml
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListProductQuantity.baml
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListRecipe.baml
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListShopping.baml
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListShoppingDetails.baml
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\WorkerEnter.baml
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.g.resources
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.Properties.Resources.resources
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.csproj.GenerateResource.cache
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.csproj.CoreCompileInputs.cache
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.exe
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.pdb
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\Catalog.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\Catalog.baml
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\LoginPrincipal.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\LoginPrincipal.baml
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\LoginPrincipal.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\CheckProducts.g.cs
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\CheckProducts.g.cs
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\CheckProducts.baml
+G:\מחשבים\כיתה יב\המורה שרה מליח\חנה פרוביין\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\LoginPrincipal.baml
+D:\ספריות\Pictures\תשפג\חני\‏‏תיקיה חדשה\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\CheckProducts.baml
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\bin\Debug\Data\bakingProduct.accdb
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\bin\Debug\BakingProductProject.exe.config
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\bin\Debug\BakingProductProject.exe
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\bin\Debug\BakingProductProject.pdb
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.csproj.AssemblyReference.cache
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\MyStyle.baml
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\CheckProducts.g.cs
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\CustomrtEnter.g.cs
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\Login.g.cs
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\MainPage.g.cs
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\MainWindow.g.cs
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\MainWindow2.g.cs
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateCustomers.g.cs
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateKindOfIndividuals.g.cs
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdatePayment.g.cs
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateProduct.g.cs
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateRecipe.g.cs
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateShopping.g.cs
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\Catalog.g.cs
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\LoginPrincipal.g.cs
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListComments.g.cs
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListCustomers.g.cs
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListKindsOfIndividuals.g.cs
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListPayment.g.cs
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListProduct.g.cs
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListProductForRecipe.g.cs
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListProductQuantity.g.cs
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListRecipe.g.cs
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListShopping.g.cs
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListShoppingDetails.g.cs
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\WorkerEnter.g.cs
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\App.g.cs
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject_Content.g.cs
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject_MarkupCompile.cache
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject_MarkupCompile.lref
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\CheckProducts.baml
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\CustomrtEnter.baml
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\Login.baml
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\MainPage.baml
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\MainWindow.baml
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\MainWindow2.baml
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateCustomers.baml
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateKindOfIndividuals.baml
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdatePayment.baml
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateProduct.baml
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateRecipe.baml
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\AddUpdateShopping.baml
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\Catalog.baml
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\LoginPrincipal.baml
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListComments.baml
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListCustomers.baml
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListKindsOfIndividuals.baml
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListPayment.baml
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListProduct.baml
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListProductForRecipe.baml
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListProductQuantity.baml
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListRecipe.baml
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListShopping.baml
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\UI\ShowListShoppingDetails.baml
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\WorkerEnter.baml
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.g.resources
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.Properties.Resources.resources
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.csproj.GenerateResource.cache
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.csproj.CoreCompileInputs.cache
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.exe
+D:\ספריות\Pictures\תשפג\חני\תכנות\מעודכן\BakingProductProject\BakingProductProject\obj\Debug\BakingProductProject.pdb
