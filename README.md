@@ -22,7 +22,7 @@ MongoDB
 
 Setup Instructions
 Clone the repository
-git clone https://github.com/your-username/recipe-ordering.git
+git clone https://github.com/chanacode/baking_product_project
 
 Navigate to the project directory
 cd recipe-ordering
